@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gxf)0=9$f8kzd@i40&ojixbnz_rg0j(d_x31ls9@*@i$cx!s**
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jatasya.onrender.com', 'www.jatasya.com']
 
 
 # Application definition
